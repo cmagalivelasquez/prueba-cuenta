@@ -1,0 +1,10 @@
+C:\pruebacuenta\uno\obj\Debug\netcoreapp2.0\uno.csproj.CoreCompileInputs.cache
+C:\pruebacuenta\uno\obj\Debug\netcoreapp2.0\uno.AssemblyInfoInputs.cache
+C:\pruebacuenta\uno\obj\Debug\netcoreapp2.0\uno.AssemblyInfo.cs
+C:\pruebacuenta\uno\bin\Debug\netcoreapp2.0\uno.deps.json
+C:\pruebacuenta\uno\bin\Debug\netcoreapp2.0\uno.runtimeconfig.json
+C:\pruebacuenta\uno\bin\Debug\netcoreapp2.0\uno.runtimeconfig.dev.json
+C:\pruebacuenta\uno\bin\Debug\netcoreapp2.0\uno.dll
+C:\pruebacuenta\uno\bin\Debug\netcoreapp2.0\uno.pdb
+C:\pruebacuenta\uno\obj\Debug\netcoreapp2.0\uno.dll
+C:\pruebacuenta\uno\obj\Debug\netcoreapp2.0\uno.pdb
